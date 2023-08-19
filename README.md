@@ -2,8 +2,8 @@
 - 👀 I’m interested in data analytics, visualization and data science
 - 🌱 I’m currently learning data analytics skills
 - 📫 You can reach me via:
-+919677598394
-lbarun.prasad26@gmail.com
++919677598394 ,
+lbarun.prasad26@gmail.com ,
 https://www.linkedin.com/in/arun-prasad-l-b-a6b52b33/    
 
 <!---
